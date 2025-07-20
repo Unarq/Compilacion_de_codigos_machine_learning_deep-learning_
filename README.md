@@ -1,2 +1,2 @@
-# Compilaci-n-de-c-digos-machine-learning-deep-learning-
+# Compilacion-de-codigos-machine-learning-deep-learning-
 Este módulo contiene todos los códigos de toda especialización 
